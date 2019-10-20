@@ -1,0 +1,46 @@
+h1 {
+    color:coral;
+    text-align: center;
+}
+<style>
+    p {
+        color:rgb(51, 29, 51);
+        text-align: left;
+    }
+    #bottom {
+        font-size: 50px;
+        color: hotpink;
+        font-family: 'Courier New', Courier, monospace;
+    }
+    #middle {
+        font-size: 30px;
+        color: indianred;
+        font-family: 'Courier New', Courier, monospace;
+    }
+    .boldfont   {
+        font-weight: bold;
+    }
+
+</style>
+h2 {
+    color:rgba(82, 14, 6, 0.397);
+    text-align: left;
+}
+
+div {
+    border: 1px dashed grey;
+    width: 80%;
+    height: 5%;
+    text-align: center;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 5%;
+}
+
+table{
+    border: 1px solid grey;
+    border-collapse: collapse;
+    width: 25%;
+}
+th{ border: 1px solid black; background: grey;}
+td{ border: 1px solid grey;}
